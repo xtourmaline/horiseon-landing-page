@@ -1,10 +1,10 @@
-# UPBC Challenge 01
+# Horiseon's Landing Page
 
 ## Description
 
 This is the first challenge assignment for the University of Pennsylvania Boot Camp (UPBC). In this assignment, I learned to organize code so it looks less messy and easier for other developers to read.
 
-See the website live at: https://xtourmaline.github.io/UPBC-challenge-01/
+See the website live at: https://xtourmaline.github.io/horiseon-landing-page/
 
 ## Images
 <img src="webpage01.png" width="800px">
